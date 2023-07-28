@@ -1,0 +1,14 @@
+.boton {
+    width: 100px;
+    height: 50px;
+    background-color: rgb(16, 24, 99);
+    border: 3px solid;
+    border-color: rgb(21, 21, 24);
+    border-radius: 15px;
+    color: rgb(245, 235, 224);
+}
+
+.boton:hover {
+    box-shadow: 25px 10px 10px rgb(101, 181, 235);
+
+}

@@ -1,0 +1,11 @@
+.box {
+    width: 150px;
+    height: 180px;
+    background-color: crimson;
+    color: aliceblue;
+    writing-mode: vertical-lr;
+    text-orientation: upright;
+    text-align: center;
+    box-shadow: 20px 20px 10px rgb(85, 15, 15);
+
+}

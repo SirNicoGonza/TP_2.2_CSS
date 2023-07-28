@@ -1,0 +1,18 @@
+.box {
+    padding: 40px;
+    width: 100px;
+    height: 10px;
+    background-color: darkgreen;
+    border-radius: 15px;
+    animation-name: rotacion;
+    animation-duration: 5s;
+    animation-delay: 1s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes rotacion {
+    0% {
+        rotate: 30%;
+    }
+
+}
